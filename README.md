@@ -3,4 +3,4 @@ This is my new project for promoting democracy in world. India is a democracy. A
 
 I am the one who is the noone.
 
-//Bhutan too is not a democracy
+Bhutan too is not a democracy
